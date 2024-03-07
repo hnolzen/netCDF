@@ -13,3 +13,6 @@ Replace the default coordinates `lat_location`and `lon_location` with the desire
 lat_location = 52.5162   # Latitude (WGS 84)
 lon_location = 13.3778   # Longitude (WGS 84)
 ```
+
+## License
+This project is distributed under the [MIT license](./LICENSE).
